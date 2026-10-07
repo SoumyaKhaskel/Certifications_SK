@@ -17,3 +17,5 @@ These certificates reflect my continuous learning in Cloud Computing, Cybersecur
 **LinkedIn:** https://www.linkedin.com/in/khaskelsoumya
 
 **GitHub:** https://github.com/SoumyaKhakel
+
+**G_Mail** Soumyakhaskel21@gmail.com
